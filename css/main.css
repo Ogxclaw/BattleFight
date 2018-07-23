@@ -1,0 +1,14 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.icon {
+  padding: 0px 5px 5px 5px;
+  position: relative;
+  float: left;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
